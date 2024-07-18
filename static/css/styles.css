@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.colour {
+    height: 20px;
+    width: 50px;
+    display: inline-block; /* Ensures color boxes are displayed next to each other */
+    margin: 5px; /* Adds some margin around each color box */
+}
